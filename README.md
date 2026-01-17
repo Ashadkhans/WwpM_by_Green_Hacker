@@ -1,5 +1,10 @@
 # WwpM_by_Green_Hacker
 For education purpose
+*Install required packages & tools*
+
+pkg update && pkg upgrade -y
+pkg install python -y
+pkg install cloudflared -y
 
 Steps 1:-
 pkg update
@@ -14,4 +19,3 @@ Step 5:-
 bash WwpM.sh
     ya
 ./WwpM.sh
-Step 6:- 
